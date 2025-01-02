@@ -1,2 +1,1 @@
-[![committers.top badge](https://user-badge.committers.top/norway/TURBOLEGO.svg)](https://user-badge.committers.top/norway/TURBOLEGO)
 ![Turbolego's GitHub stats](https://github-readme-stats.vercel.app/api?username=turbolego&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turbolego&theme=transparent)](https://github.com/turbolego/github-readme-stats)
