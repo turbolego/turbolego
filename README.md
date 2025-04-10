@@ -3,3 +3,5 @@
 ![turbolego's Stats](https://github-readme-stats.vercel.app/api?username=turbolego&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ![turbolego's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=turbolego&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=turbolego&label=Profile%20views&color=0e75b6&style=flat" alt="turbolego" /> </p>
