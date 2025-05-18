@@ -7,6 +7,8 @@
 
 ![turbolego's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=turbolego&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
+[![committers.top badge](https://user-badge.committers.top/norway_private/turbolego.svg)](https://user-badge.committers.top/norway_private/turbolego)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turbolego&label=Profile%20views&color=0e75b6&style=flat" alt="turbolego" /> </p>
 
 
