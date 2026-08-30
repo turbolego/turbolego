@@ -1,3 +1,6 @@
+
+[[Last played on Spotify](https://ipad2spotify.vercel.app/api/badge/mubt1yl4wmxywii.svg/ipad2spotifywercelapp/
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=turbolego&theme=dark)](https://git.io/streak-stats)
 
 <a href="https://git-wrapped.com/"><img height="800" alt="GitHub Wrapped 2025" src="https://github.com/user-attachments/assets/edadb139-5011-47dd-a0f9-ce16589e346e" /></a>
