@@ -1,4 +1,4 @@
-[<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-pied-six.vercel.app?user=Turbolego&theme=dark" alt="GitHub Streak" /></a>](https://github-readme-streak-stats-pied-six.vercel.app?user=Turbolego)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Turbolego)](https://git.io/streak-stats)
 
 <a href="https://git-wrapped.com/"><img height="800" alt="GitHub Wrapped 2025" src="https://github.com/user-attachments/assets/edadb139-5011-47dd-a0f9-ce16589e346e" /></a>
 
