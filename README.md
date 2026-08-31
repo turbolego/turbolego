@@ -1,5 +1,5 @@
 
-[![Last played on Spotify](https://ipad2spotify.vercel.app/api/badge/mubt1yl4wmxywii.svg)](https://ipad2spotify.vercel.app/)
+[![Last played on Spotify](https://ipad2spotify.vercel.app/api/badge/pszakw4nbafwexn.svg)](https://ipad2spotify.vercel.app/)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=turbolego&theme=dark)](https://git.io/streak-stats)
 
