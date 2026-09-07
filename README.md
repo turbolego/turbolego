@@ -1,6 +1,8 @@
 
 [![Last played on Spotify](https://ipad2spotify.vercel.app/api/badge/b0fqqgncucvgw2e.svg)](https://ipad2spotify.vercel.app/)
 
+![My contributions badge](https://raw.githubusercontent.com/turbolego/cobe-github-profile-badge/main/badge.svg)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=turbolego&theme=dark)](https://git.io/streak-stats)
 
 <a href="https://git-wrapped.com/"><img height="800" alt="GitHub Wrapped 2025" src="https://github.com/user-attachments/assets/edadb139-5011-47dd-a0f9-ce16589e346e" /></a>
