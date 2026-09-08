@@ -1,7 +1,7 @@
 
 [![Last played on Spotify](https://ipad2spotify.vercel.app/api/badge/b0fqqgncucvgw2e.svg)](https://ipad2spotify.vercel.app/)
 
-[![My contributions badge](https://raw.githubusercontent.com/turbolego/cobe-github-profile-badge/main/badge.gif)](https://turbolego.github.io/cobe-github-profile-badge/)
+[![My contributions badge](https://raw.githubusercontent.com/turbolego/github-contrib-globe-badge/main/badge.gif)](https://turbolego.github.io/github-contrib-globe-badge/)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=turbolego&theme=dark)](https://git.io/streak-stats)
 
