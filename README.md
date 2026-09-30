@@ -1,5 +1,5 @@
 
-[![Last played on Spotify](https://ipad2spotify.vercel.app/api/badge/b0fqqgncucvgw2e.svg)](https://ipad2spotify.vercel.app/)
+[![Last played on Spotify](https://ipad2spotify.vercel.app/api/badge/1170009226.svg)](https://ipad2spotify.vercel.app/)
 
 [![My contributions badge](https://raw.githubusercontent.com/turbolego/github-contrib-globe-badge/main/badge.gif)](https://turbolego.github.io/github-contrib-globe-badge/)
 
