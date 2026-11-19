@@ -1,4 +1,4 @@
-# Linis related to ODIN presentation 19 november 2026
+# Links related to ODIN presentation 19 november 2026
 
 * https://github.com/turbolego/uustreak
 * https://github.com/turbolego/AI-WCAG-Gauntlet
