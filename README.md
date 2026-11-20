@@ -2,6 +2,8 @@
 
 Resources, open-source projects and AI research related to my presentation at **ODIN 2026 (19 November 2026)**, exploring how AI can help build, test and improve digital accessibility against WCAG 2.2.
 
+[Presentation slides (PowerPoint)](https://docs.google.com/presentation/d/1R0eW6HD3hckR-dK83VIyecJiSZp8giyJ)
+
 | Project | Description | GitHub | Live demo / Model |
 |---|---|---|---|
 | **UUstreak** | Automated monitoring and ranking of WCAG violations across Norwegian websites. | [Repository](https://github.com/turbolego/uustreak) | [uustreak.no](https://uustreak.no) |
